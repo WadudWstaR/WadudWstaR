@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**WadudWstaR/WadudWstaR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Project Title
 
-Here are some ideas to get you started:
+## 📌 Description
+This project is created to practice and improve my programming skills.  
+It focuses on writing clean, simple, and understandable code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Features
+- Easy to understand code
+- Beginner friendly
+- Well structured files
+
+## 🛠️ Technologies Used
+- Language: (e.g. Python / C / Java / JavaScript)
+- Tools: Git, GitHub
+
+## 📂 Project Structure
+- src/ → source code
+- docs/ → documentation (if any)
+
+## ▶️ How to Run
+1. Clone the repository  
+2. Open the project folder  
+3. Run the main file
+
+## 🎯 Purpose
+This project is made for learning purposes and academic practice.
+
+## 👤 Author
+**Md Wadud Hossain**
