@@ -1,30 +1,35 @@
 
-# Project Title
+## 👋 Hi, I'm Md Wadud Hossain
 
-## 📌 Description
-This project is created to practice and improve my programming skills.  
-It focuses on writing clean, simple, and understandable code.
+🎓 I'm a Computer Science & Engineering (CSE) student  
+💻 I mainly work with **C++**  
+🚀 Passionate about programming, problem solving, and learning new technologies
 
-## 🚀 Features
-- Easy to understand code
-- Beginner friendly
-- Well structured files
+---
 
-## 🛠️ Technologies Used
-- Language: (e.g. Python / C / Java / JavaScript)
-- Tools: Git, GitHub
+## 🧠 Skills & Interests
+- C++ Programming
+- Data Structures & Algorithms (Basic)
+- Object-Oriented Programming (OOP)
+- Problem Solving
+- Git & GitHub
 
-## 📂 Project Structure
-- src/ → source code
-- docs/ → documentation (if any)
+---
 
-## ▶️ How to Run
-1. Clone the repository  
-2. Open the project folder  
-3. Run the main file
+## 🛠️ Languages & Tools
+- **Language:** C++
+- **Tools:** Git, GitHub
+- **Currently Learning:** Advanced C++ & DSA
 
-## 🎯 Purpose
-This project is made for learning purposes and academic practice.
+---
 
-## 👤 Author
-**Md Wadud Hossain**
+## 📌 About Me
+I am a motivated CSE student who enjoys solving logical problems and building a strong
+foundation in programming. I believe in writing clean, efficient, and readable code.
+My goal is to continuously improve my skills and grow as a software engineer.
+
+---
+
+
+⭐ Feel free to check out my repositories and give feedback!
+
